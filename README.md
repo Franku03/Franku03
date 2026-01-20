@@ -7,7 +7,7 @@ I have lot of interest in web and mobile development, both frontend and backend,
 ***
 
 ### Main tools ⚙️
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,github,postman,vite,docker,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,github,postman,docker,vite,figma)](https://skillicons.dev)
 
 ### Main Skills 🔥
 - #### Programming Languages
@@ -16,7 +16,7 @@ I have lot of interest in web and mobile development, both frontend and backend,
   [![My Skills](https://skillicons.dev/icons?i=html,css,react,redux,bootstrap)](https://skillicons.dev)
 - #### Backend Technologies
   [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,firebase,bun)](https://skillicons.dev)
-  ![image](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+  ![image](https://skills.syvixor.com/api/icons?perline=15&i=socketio)
 - #### Testing Frameworks
   [![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
 - #### Databases
