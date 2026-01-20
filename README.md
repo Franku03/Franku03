@@ -29,7 +29,7 @@ I have lot of interest in web and mobile development, both frontend and backend,
 - DDD, Hexagonal Arquitecture, Clean Arquitecture and SOLID principles
 
 ### Fun fact ☝️🤓 
-I sometimes may hiperfixate on a programming language or technlogy based purely on its logo, name or syntaxis
+I sometimes may learn a programming language or technology based purely on its logo, name or syntaxis
 
 <!--
 **Franku03/Franku03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
